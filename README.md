@@ -12,3 +12,6 @@ Unity Version : 2018.4.23.f1
 
 If you want to build your own headset, check out my tutorial:
 https://www.delhitechnologyclub.com/build-your-own-ar-headset
+
+For More Information on Leap Motion Project:
+https://github.com/leapmotion/ProjectNorthStar
