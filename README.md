@@ -1,4 +1,4 @@
-Catch an Apple - Project North Star Demo
+# Catch an Apple - Project North Star Demo
 
 When we say "Apple", few names come instantly to our mind like Newton and Steve Jobs. Some would also say that this is the very first word we learn when we start learning alphabets .. A for APPLE.
 
@@ -8,10 +8,10 @@ In this demo, we're trying to catch a virtual apple using our real hands. we're 
 
 We can also play games like Cricket, Volleyball, Table Tennis, Football. Or we can use in Business Cards (showing virtual content on top of it) See our Demo for example.
 
-Unity Version : 2018.4.23.f1
+# Unity Version : 2018.4.23.f1
 
 If you want to build your own headset, check out my tutorial:
-https://www.delhitechnologyclub.com/build-your-own-ar-headset
+ # https://www.delhitechnologyclub.com/build-your-own-ar-headset
 
 For More Information on Leap Motion Project:
-https://github.com/leapmotion/ProjectNorthStar
+ # https://github.com/leapmotion/ProjectNorthStar
